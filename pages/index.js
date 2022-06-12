@@ -12,7 +12,7 @@ export default function Home() {
                 <meta name="description" content="Our smart contract" />
                 <link rel="icon" href="/favicon.ico" />
             </Head>
-            {/*<ManualHeader></ManualHeader>*/}
+
             <Header />
             <LotteryEntrance />
         </div>
